@@ -55,7 +55,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-command$$
-  - $$mdi:apple-keyboard-command$$
+  - $$mdi:apple-keyboard-option$$
   - layer1
   - $$mdi:keyboard-space$$
   - RETURN
@@ -63,7 +63,7 @@ layers:
   - $$mdi:keyboard-space$$
   - $$mdi:keyboard-space$$
   - '2'
-  - RGUI
+  - $$mdi:apple-keyboard-option$$
   - RGUI
   layer1:
   - {t: '`', s: '~'}
